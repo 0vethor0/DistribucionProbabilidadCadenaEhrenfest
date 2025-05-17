@@ -1,0 +1,3 @@
+Este codigo esta escrito en java
+Pero tambien le puede dar al .exe llamado "App" para abrir el programa 
+sin necesidad de abrir un IDE
