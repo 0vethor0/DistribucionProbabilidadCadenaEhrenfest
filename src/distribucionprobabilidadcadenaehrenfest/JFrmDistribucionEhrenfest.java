@@ -29,7 +29,7 @@ public class JFrmDistribucionEhrenfest extends javax.swing.JFrame {
     this.btnCalcularDistribucion.setEnabled(false);
     this.txtResultado.setEnabled(false);
     
-    txtVectorInicial.putClientProperty("JTextField.placeholderText", "Vector separado por comas.Ej: 0,0,0,1,0");
+    txtVectorInicial.putClientProperty("JTextField.placeholderText", "Vector separado por comas.Ej: 0,0,0,1,0,0");
     }
   
     private UrnasPanel urnasPanelVisual = new UrnasPanel();// inicializamos un objeto de la clase UrnasPanel
